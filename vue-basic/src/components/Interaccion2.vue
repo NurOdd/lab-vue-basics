@@ -8,7 +8,7 @@
 
 <script setup>
 const holis = () => {
-    console.log ("Hola Mundo!")
+    console.log("Hola Mundo!")
 }
 
 </script>

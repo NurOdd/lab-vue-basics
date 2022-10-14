@@ -1,10 +1,12 @@
 <template>
+    <div>
     <div  :class="{bcgColor: colorChange}">
         <h2>
         interacion 5
         </h2>
         <button @click="clickMe">Click Me!</button>
     </div>
+</div>
 </template>
 
 
